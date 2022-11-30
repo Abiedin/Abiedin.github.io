@@ -1,20 +1,3 @@
-/*!
- *      This script was taked from this page and ported to Node.js by Ionică Bizău
- *      http://www.shamash.org/help/javadate.shtml
- *
- *      This script was adapted from C sources written by
- *      Scott E. Lee, which contain the following copyright notice:
- *
- *      Copyright 1993-1995, Scott E. Lee, all rights reserved.
- *      Permission granted to use, copy, modify, distribute and sell so long as
- *      the above copyright and this permission statement are retained in all
- *      copies.  THERE IS NO WARRANTY - USE AT YOUR OWN RISK.
- *
- *      Bill Hastings
- *      RBI Software Systems
- *      bhastings@rbi.com
- */
-
 /**
  * @license React
  * react-dom.production.min.js
@@ -132,7 +115,3 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-
-//! moment.js
-
-//! moment.js locale configuration
